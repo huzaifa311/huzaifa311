@@ -35,9 +35,3 @@
 <br>
 
 ## Contact me:
-
-
-
-------
-Credit: [huzaifa311](https://github.com/huzaifa311)
-Last Edited on: 26/02/2024
